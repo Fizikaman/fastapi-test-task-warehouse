@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standart]
 SQLAlchemy>=2.0
-psycopg2-binary
 pydentic
+alembic
+psycopg2
